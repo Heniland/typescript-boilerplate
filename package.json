@@ -1,0 +1,26 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a boilerplate of typescript project for npm libraries",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Heniland/typescript-boilerplate.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Hanoch Arega",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^2.2.43",
+    "@types/node": "^8.0.33",
+    "mocha": "^4.0.1",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.3"
+  }
+}
